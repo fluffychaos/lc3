@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+	"lc3-system",
+	"lc3-app",
+]
