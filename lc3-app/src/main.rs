@@ -1,7 +1,7 @@
 use lc3_system;
 
 fn main() {
-    let x = lc3_system::Instruction::Add {
+    let x = lc3_system::instruction::Instruction::AddRegister {
         dest: 0,
         src1: 0,
         src2: 0
